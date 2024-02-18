@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+    background: white;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(255, 253, 255);
+    
+    height: 15px;
+}
+h2{
+    color: rgb(20, 7, 7);
+    margin-bottom: 60px;
+    text-align: center;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    
+}
+
